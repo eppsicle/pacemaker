@@ -5,3 +5,5 @@ The Pacemaker 1.0 is heart-themed additive synthesis patch that allows the user 
 The Pacemaker 1.0 also features a pattern sequencer with 32 eighth notes that users can adjust to create their own note patterns, as well as two preset boxes that allow you to save synth setting and sequence settings.
 
 Recalling the image of a heart monitor, the patch also features spectroscopes on the righthand side that visualize the shape of the synth.
+
+![Uploading Screenshot 2024-02-24 at 4.17.21 PM.png…]()
